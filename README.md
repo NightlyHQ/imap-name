@@ -17,7 +17,6 @@ yahoo.com | imap.mail.yahoo.com
 
 ## Use Cases
 - Email automation tools
-- Account checkers (IMAP login validation)
 - Mail clients configuration
 
 ## Status
