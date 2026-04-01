@@ -1,1 +1,24 @@
-"# imap-name" 
+# 📡 IMAP Providers Database
+
+## Description
+A curated list of IMAP server domains for various email providers worldwide.
+
+## Features
+- 🌍 Multiple providers (Gmail, Outlook, Yahoo, etc.)
+- ⚡ Ready-to-use format
+- 🧠 Useful for automation, email tools, and scripts
+
+## Format
+domain | imap server
+
+Example:
+gmail.com | imap.gmail.com  
+yahoo.com | imap.mail.yahoo.com  
+
+## Use Cases
+- Email automation tools
+- Account checkers (IMAP login validation)
+- Mail clients configuration
+
+## Status
+Work in progress 🚧
